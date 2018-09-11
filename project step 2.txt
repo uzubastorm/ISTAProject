@@ -1,0 +1,31 @@
+Projet 1
+Aaron Person
+08/20/2018
+
+Hello, my name is Aaron Person. i'm from lima ohio, born and raised, on the playground is where is spent most of my days.
+Even with all that outside goodness, all the fun in the sun i would always find myself on the computer, on myspace (back in the good ol' days), youtube,
+and especially playing video games. 
+
+I deicided to go witha mobile game app. something to get you interested enough to play on some down time, rather you're waiting on something or just flat out bored.
+Creating a program that many people can enjoy after a long day at work or just to pass sometime seems like a good idea. So the idea is to create a game similar 
+to Dungeons and Dragons but with Angels and Demons. I'm still in the works for what the name should be and open to sugestions. The game is a turn based 
+role playing game where the user has to figure out what route they want to take in order to defeat the  opponent in front of them. For the game itself it allows you 
+to pick a side between angels or demons and depending on the side allows for different eneimes to fight. for example the demons will fight angelic creatures and the 
+angels will fight deomonic creatures.
+
+my Database for this project will be SQLite. the database will hold information like player's health bar, enemies' health bar, as well as damage done and damage recieved.
+the Database also needs to hold the different classes and how they interact with the game and other players. A collection of user information is also required like username and password
+name they would like to be called in game.
+
+The program has to be able to know how much damage taken to eliminate either the player's character or the enemy. As well as bonus equipment and stats applied the the player's character
+by other teammates or just by going to the shop and purchasing health potions or armor/damage.
+The program also has to be able to detact rather or not the player is still using the mobile app. 
+
+The interface i will be using is called GameMakers, for one because it's one of the cheapest and because the idea for this game is a 2D game and that interface will be perfect for 
+what im trying to do. The game will run turn by turn letting the player's attack first unless their opponent is a stronger than they are. If thats the case the players will still
+have a chance to will but a slim chance. this will force the player to really think about their next move especially because most of their eneimes will be a tad bit stronger
+than they are.
+
+By building this project i will achieve my personal objective by getting an understanding of how to get started with building apps and learning what goes in them
+and how to make every part move smoothly. I will be getting an understanding on what makes the app tick, how does it tick, and why it does tick. completing this project might end
+up making one of my ideas and real thing

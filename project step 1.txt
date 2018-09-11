@@ -1,0 +1,28 @@
+# Projet 1
+## Aaron Person
+### 08/13/2018
+
+ Hello, my name is Aaron Person. i'm from lima ohio, born and raised, on the playground is where is spent most of my days.
+Even with all that outside goodness, all the fun in the sun i would always find myself on the computer, on myspace (back in the good ol' days), youtube,
+and especially playing video games. 
+
+my first idea is a strategic video game Who doesn't like video games, thats why i deicided to take on the strategic video game assignment as my project. 
+Creating a program that many people can enjoy after a long day at work or just to pass sometime seems like a grand idea. So the idea is to create a game similar 
+to Dungeons and Dragons but with Angels and Demons. I'm still in the works for what the name should be and open to sugestions. The game is a turn based 
+role playing game where the user has to figure out what route they want to take in order to defeat the  opponent in front of them. For the game itself it allows you 
+to pick a side between angels or demons and depending on the side allows for different eneimes to fight. for example 
+the demons will fight angelic creates and the angels will fight deomonic creates.
+
+my next idea is an auction system, something like ebay. so the system would be directed towards people who build computers. there are some parts that online stores just dont have 
+anymore or have a very limited supply of so an auction system with no middle man, where users can buy, sell, bid, or request a certain part for their pc seem like a good idea
+i'm in the middle of building my own pc and i want it to be the best but some of the parts to make it the best arent sold in stores anymore or is extemely high in price so 
+with this auction system, that i dont have a name for yet, i believe it can help other people whos also wanting to make the best pc.
+
+Another idea i have is an app that translae all books into audiobooks. you either purchase the book off the app or transfer an exsiting book to the app and the system
+will scan the book and translate the words into audio. it'll be benefical for majority of people who have a hard time reading an instrucational book or who just dont like reading 
+at all. Another app without a name but i'm thinking "eyes to ears". 
+
+By building this project i will achieve my personal objective by getting an understanding of how to get started with building apps and learning what goes in them
+and how to make every part move smoothly. I will be getting an understanding on what makes the app tick, how does it tick, and why it does tick. completing thie project might end
+up making one of my ideas and real thing especially the "eyes to ears" app because i'm one of those people and an app that'll allow me to just listen to the book instead of
+actually having to read it would be amazing.
